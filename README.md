@@ -32,3 +32,26 @@
 
 <span style="color:green;">Para mas información sobre preguntas frecuentes puedes dirigirte al siguiente [LINK](https://www.youtube.com/watch?v=OkxLDNrxX4I&ab_channel=LOMASBIZARRO "LINK")
 
+
+------------
+
+
+## *Paleta de colores y fuentes*
+
+
+### Space Mono
+### Abeezee
+
+
+
+
+[![paleta.png](https://i.postimg.cc/vBFRs3MR/paleta.png)](https://postimg.cc/VSRZ99d4)
+
+
+------------
+------------
+
+# Figma
+
+[Link a FIGMA](https://www.figma.com/file/48972nk1QrqR9wX1JZiCSh/goldenProyect "Link a FIGMA")
+
